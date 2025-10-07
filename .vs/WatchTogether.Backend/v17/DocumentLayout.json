@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|c:\\users\\asus\\desktop\\applications\\watchtogether.backend\\graphql\\mutations\\messagemutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\mutations\\messagemutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|c:\\users\\asus\\desktop\\applications\\watchtogether.backend\\graphql\\mutations\\mutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\mutations\\mutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|c:\\users\\asus\\desktop\\applications\\watchtogether.backend\\graphql\\inputs\\messageinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\inputs\\messageinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|c:\\users\\asus\\desktop\\applications\\watchtogether.backend\\graphql\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|c:\\users\\asus\\desktop\\applications\\watchtogether.backend\\graphql\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|c:\\users\\asus\\desktop\\applications\\watchtogether.backend\\graphql\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|c:\\users\\asus\\desktop\\applications\\watchtogether.backend\\graphql\\subscriptions\\roomsubscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\subscriptions\\roomsubscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|c:\\users\\asus\\desktop\\applications\\watchtogether.backend\\graphql\\mutations\\roommutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\mutations\\roommutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|c:\\users\\asus\\desktop\\applications\\watchtogether.backend\\graphql\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|c:\\users\\asus\\desktop\\applications\\watchtogether.backend\\graphql\\subscriptions\\messagesubscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\subscriptions\\messagesubscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|c:\\users\\asus\\desktop\\applications\\watchtogether.backend\\graphql\\payloads\\roompayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\payloads\\roompayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|c:\\users\\asus\\desktop\\applications\\watchtogether.backend\\graphql\\inputs\\roominputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\inputs\\roominputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|c:\\users\\asus\\desktop\\applications\\watchtogether.backend\\graphql\\mutations\\usermutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\mutations\\usermutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|c:\\users\\asus\\desktop\\applications\\watchtogether.backend\\graphql\\inputs\\userinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\inputs\\userinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|c:\\users\\asus\\desktop\\applications\\watchtogether.backend\\graphql\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD2928A-3D5E-4D95-A7C5-7F88EAA332EB}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GraphQL\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:47:32.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomSubscriptions.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Subscriptions\\RoomSubscriptions.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Subscriptions\\RoomSubscriptions.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Subscriptions\\RoomSubscriptions.cs",
+              "RelativeToolTip": "GraphQL\\Subscriptions\\RoomSubscriptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:46:12.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessageSubscriptions.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Subscriptions\\MessageSubscriptions.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Subscriptions\\MessageSubscriptions.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Subscriptions\\MessageSubscriptions.cs",
+              "RelativeToolTip": "GraphQL\\Subscriptions\\MessageSubscriptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:43:24.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomPayload.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Payloads\\RoomPayload.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Payloads\\RoomPayload.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Payloads\\RoomPayload.cs",
+              "RelativeToolTip": "GraphQL\\Payloads\\RoomPayload.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:53:27.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserMutations.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Mutations\\UserMutations.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Mutations\\UserMutations.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Mutations\\UserMutations.cs",
+              "RelativeToolTip": "GraphQL\\Mutations\\UserMutations.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwCgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:57:07.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mutations.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Mutations\\Mutations.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Mutations\\Mutations.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Mutations\\Mutations.cs",
+              "RelativeToolTip": "GraphQL\\Mutations\\Mutations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:56:59.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserInputs.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Inputs\\UserInputs.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Inputs\\UserInputs.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Inputs\\UserInputs.cs",
+              "RelativeToolTip": "GraphQL\\Inputs\\UserInputs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:56:46.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageInputs.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Inputs\\MessageInputs.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Inputs\\MessageInputs.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Inputs\\MessageInputs.cs",
+              "RelativeToolTip": "GraphQL\\Inputs\\MessageInputs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:56:32.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Models\\User.cs",
+              "RelativeToolTip": "GraphQL\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:56:24.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Models\\Messages.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Models\\Messages.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Models\\Messages.cs",
+              "RelativeToolTip": "GraphQL\\Models\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:56:07.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Models\\Guest.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Models\\Guest.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Models\\Guest.cs",
+              "RelativeToolTip": "GraphQL\\Models\\Guest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:56:02.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageMutations.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Mutations\\MessageMutations.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Mutations\\MessageMutations.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Mutations\\MessageMutations.cs",
+              "RelativeToolTip": "GraphQL\\Mutations\\MessageMutations.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:54:57.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Models\\Room.cs",
+              "RelativeToolTip": "GraphQL\\Models\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:48:38.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomInputs.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Inputs\\RoomInputs.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Inputs\\RoomInputs.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Inputs\\RoomInputs.cs",
+              "RelativeToolTip": "GraphQL\\Inputs\\RoomInputs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:47:42.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomMutation.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Mutations\\RoomMutation.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Mutations\\RoomMutation.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Applications\\WatchTogether.Backend\\GraphQL\\Mutations\\RoomMutation.cs",
+              "RelativeToolTip": "GraphQL\\Mutations\\RoomMutation.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAswJcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:45:56.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
